@@ -1,5 +1,3 @@
-# dongho
-
 # 🕒 ASCII LED Clock (Python Realtime)
 
 Đây là **đồng hồ LED 7 đoạn chạy realtime trên terminal**, được viết hoàn toàn bằng **Python thuần**.  
